@@ -1,0 +1,38 @@
+.line {
+    width: 50px;
+    height: 5px;
+    background-color: red;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.approdable {
+    margin-left: 60px;
+}
+
+.problem {
+    width: 345px;
+    height: 60px;
+    font-family: 'Montserrat';
+    line-height: 20px;
+    color: #737373;
+    margin-left: 60px;
+}
+
+.learn {
+    margin-left: 60px;
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+.course {
+    margin-left: 60px;
+}
+
+.prob {
+    width: 345px;
+    height: 60px;
+    font-family: 'Montserrat';
+    line-height: 20px;
+    color: #737373;
+}
